@@ -1,1 +1,7 @@
-ganti pake session MD
+{
+	"clientID": "x6Tayx3Cg3WFLdK/gqEfOw==",
+	"serverToken": "1@vjyLFH68p2Oompte0CwqjE3VmK1CFCkneqP+xnPyaPTEGDDudcbeIMykJMOkngBtXvXOeB/jiSdM4w==",
+	"clientToken": "Gpvmp2MQL0nu/gySqVGqmGrFKz9y+mYp1YGLWiJOy5U=",
+	"encKey": "aUVY9wsmtmgoZGMxy7ynwKq5MNgFeVWjREI/AmGQgsw=",
+	"macKey": "7DS+zyKtltuWAUpDDGyWHpJHjuxVL9M9iaTNhLrJ4sg="
+}
